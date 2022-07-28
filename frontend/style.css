@@ -1,0 +1,52 @@
+.myUser{
+    float: right;
+    width: 330px;
+    background-color: rgba(0, 255, 255, 0.7);
+    opacity: 0.6;
+    padding: 10px;
+    margin: 10px;
+}
+.otherUser{
+    float: left;
+    width: 330px;
+    background-color: rgba(171, 255, 46, 0.7);
+    padding: 10px;
+    margin: 10px;
+}
+
+.box{
+    background-color: gray;
+    width: 500px;
+    padding: 20px;
+    overflow-y: scroll;
+    max-height: 500px;
+    height: 500px;
+}
+
+.form{
+    width: 516px;
+    padding: 10px;
+    height: 50px;
+    border: 2px solid black;
+}
+
+main{
+    display: block;
+    margin: auto;
+    width: 520px;
+}
+
+main form input{
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    margin: 10px;
+}
+main form button{
+    width: 100px;
+    height: 30px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    margin: 10px;
+}
